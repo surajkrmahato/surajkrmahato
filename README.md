@@ -59,7 +59,7 @@
 ## 📫 **Connect with Me**  
 
 <a href="https://github.com/surajkrmahato" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/surajkrmahato" target="_blank">
