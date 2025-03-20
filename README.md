@@ -7,8 +7,8 @@
 ## 💻 About Me  
 - 🎓 **MCA Student** with a background in **Chemistry Hons and ITI (Electrical)**
 - 🤖 Passionate about **Deep Learning, Database Management, and DevOps**
-- 🚀 Looking to collaborate on **Database Management, Data Analytics, and Cloud Computing Projects**
-- 📚 **Currently Learning:** Docker, Kubernetes, and PyTorch  
+- 🚀 Looking to collaborate on **Database Management,and Text Based Emotion Classification using Deep Learning**
+- 📚 **Currently Learning:** PyTorch and Obect Oriented Programming**  
 
 > 💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
@@ -17,10 +17,10 @@
 ## 🛠️ Languages and Tools:
 
 ### **Programming Language Stack**
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/> </a>
 
 ### **Frontend Development Stack**
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -39,6 +39,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlmPA2oYQRN00MC4brrfamcWQBLbhghJR9g&s" alt="PL/SQL" title="PL/SQL" width="40" height="40"/>
 </a>
 
+---
+
+### **Editor/IDE**
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
+</a>
 
 ---
 
@@ -55,6 +61,9 @@
 <a href="mailto:surajkr.mahato@outlook.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" title="Email" width="40" height="40"/>
 </a>
+<br><br>
+
+**💡 Fun Fact:** I started with Chemistry & Electrical, but now I spark ideas in Deep Learning & Databases instead of circuits! ⚡💻
  
 
 Let’s build something awesome together! 🚀  
