@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="surajkr.mahato@outlook.com">
+<a href="mailto:surajkr.mahato@outlook.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" title="Email" width="40" height="40"/>
 </a>
  
